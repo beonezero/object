@@ -6,3 +6,5 @@ const person = {
 
 console.log(person.isMarried);
 console.log(person["age"]);
+
+delete person.age
